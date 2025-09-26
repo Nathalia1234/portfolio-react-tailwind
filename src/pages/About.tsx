@@ -61,7 +61,9 @@ export default function Sobre() {
             </p>
             <div className="flex flex-wrap gap-4">
               <a
-                href="mailto:nathe557@gmail.com"
+                href="mailto:nathe557@gmail.com?subject=Contato%20do%20Portfólio&body=Olá%20Nathalia,%20gostaria%20de%20falar%20sobre..."
+                target="_blank"
+                rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 rounded-md bg-gray-800 text-white hover:bg-gray-700 transition"
               >
                 <MdEmail size={18} /> Email
@@ -69,13 +71,15 @@ export default function Sobre() {
               <a
                 href="https://github.com/Nathalia1234"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 rounded-md bg-gray-800 text-white hover:bg-gray-700 transition"
               >
                 <FaGithub size={18} /> GitHub
               </a>
               <a
-                href="https://www.linkedin.com/in/nathalia-ohana-barigchum-leite"
+                href="https://www.linkedin.com/in/nathalia-ohana-barigchum-leite/"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 rounded-md bg-gray-800 text-white hover:bg-gray-700 transition"
               >
                 <FaLinkedin size={18} /> LinkedIn
