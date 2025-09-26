@@ -13,6 +13,11 @@ Este portfólio foi construído para ser um espaço simples, objetivo e elegante
 A ideia é que, ao navegar, você encontre não apenas códigos, mas também a essência do que mais gosto de fazer: **aprender, criar e transformar ideias em soluções**.
 
 ---
+## 💻📱 Deploy
+
+Link: [Portfólio React](https://www.nathaliaohana.dev/)
+
+--- 
 
 ## 🛠️ Tecnologias utilizadas
 
